@@ -1,0 +1,12 @@
+{
+    "clients":
+    {
+        "id":1,
+        "name":"Ahmad",
+        "surname":"Ibishov",
+        "email":"ahmad@gmail.com",
+        "password":"ahmad123456",
+        "isAdmin":false,
+        "favorite":[]
+    }
+}

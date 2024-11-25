@@ -1,0 +1,14 @@
+
+*{
+box-sizing: border-box;
+list-style-type: none;
+text-decoration: none;
+}
+.logos{
+    display: flex;
+    justify-content: space-between;
+}
+.icons ul{
+    display: flex;
+    gap: 10px; 
+}
